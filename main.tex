@@ -6,10 +6,11 @@
 \usetikzlibrary{positioning}
 
 \usepackage{graphicx}   % Required for including RGB image files
-\usepackage{natbib}     % Needed for the Refrences chapter .bib file
+\usepackage{natbib}     % Needed for the Refrences chapter .bib file  <--------------- COMMENTED OUT
 \usepackage{url}        % Needed for URL links
 %\usepackage{hyperref}  % Makes a reference into a hyperlink
-\usepackage{multicol}   % For the multicolumn chapter
+\usepackage{multicol}           % For the multicolumn chapter
+\usepackage[english]{babel}     % For multicol too
 \usepackage{amsthm}     % For theorems          (Settings in a file)
 \usepackage{mdframed}   % For boxing theorems   (Settings in a file)
 \usepackage{mdframed}   % For boxing equations  (Settings in a file)
@@ -34,21 +35,21 @@
 \include{Chapter - Image}       % Draw image example
 \include{Chapter - Essey}       % Essey example
 \include{Chapter - Equation}    % Equation example
-\include{Chapter - Reference}   % Reference example
+% \include{Chapter - Reference}   % Reference example           <--------------- COMMENTED OUT
 \include{Chapter - Footnote}    % Footnote example
-\include{Chapter - ImageRGB}    % External image example
-\include{Chapter - Multi column}% Multi column example
+\include{Chapter - ImageRGB}    % External image example      <--------------- COMMENTED OUT
+% \include{Chapter - Multi column}% Multi column example        <--------------- COMMENTED OUT
 \include{Chapter - Theorem}     % Theorems example
-\include{Chapter - Code}        % Code example
+% \include{Chapter - Code}        % Code example
 
 \appendix
 \include{Appendix - Newton}
 \include{Appendix - Tesla}
 
 % References settings 
-\bibliographystyle{plain}   % BibTeX
-\bibliography{references}
-\addcontentsline{toc}{section}{References} % References to table of contents
-\nocite{*}  % FIGURE OUT HOW TO GET THE REFERENCES CHAPTER SHOW WITHOUT THIS LINE
+% \bibliographystyle{plain}   % BibTeX
+% \bibliography{references}
+% \addcontentsline{toc}{section}{References} % References to table of contents
+% \nocite{*}                                                     <--------------- COMMENTED OUT
 
 \end{document}

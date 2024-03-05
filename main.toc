@@ -1,0 +1,15 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{Abstract}{2}{}%
+\contentsline {section}{\numberline {1}Exploring Cubes with TikZ}{3}{}%
+\contentsline {section}{\numberline {2}An Essay on Apples}{4}{}%
+\contentsline {section}{\numberline {3}A New Chapter on Equations}{5}{}%
+\contentsline {section}{\numberline {4}Understanding Footnotes}{6}{}%
+\contentsline {section}{\numberline {5}RGB image example}{7}{}%
+\contentsline {section}{\numberline {6}Mathematical Proofs and Theorems}{8}{}%
+\contentsline {subsection}{\numberline {6.1}Sample Theorem}{8}{}%
+\contentsline {subsection}{\numberline {6.2}Sample Lemma}{8}{}%
+\contentsline {subsection}{\numberline {6.3}Sample Corollary}{8}{}%
+\contentsline {subsection}{\numberline {6.4}Sample Definition}{8}{}%
+\contentsline {subsection}{\numberline {6.5}Sample Remark}{9}{}%
+\contentsline {section}{\numberline {A}Newton}{10}{}%
+\contentsline {section}{\numberline {B}Nikola Tesla}{11}{}%

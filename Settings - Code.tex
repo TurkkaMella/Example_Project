@@ -1,12 +1,12 @@
-% Configuration for the listings package
+% Global settings for listings
 \lstset{
     basicstyle=\ttfamily,
     commentstyle=\color{green},
     keywordstyle=\color{blue},
     stringstyle=\color{red},
     showstringspaces=false,
-    identifierstyle=\color{black},
-    procnamekeys={def,class}
+    identifierstyle=\color{black}
+    % Removed procnamekeys
 }
 
 % Language-specific settings
@@ -18,7 +18,8 @@
     numberstyle=\small,
     numbersep=8pt,
     showstringspaces=false,
-    tabsize=2
+    tabsize=2,
+    morekeywords={auto} % Add additional C++ keywords here
 }
 
 \lstdefinestyle{python}{
@@ -29,5 +30,6 @@
     numberstyle=\small,
     numbersep=8pt,
     showstringspaces=false,
-    tabsize=2
+    tabsize=2,
+    morekeywords={def,class} % This is how you add extra keywords for Python
 }
