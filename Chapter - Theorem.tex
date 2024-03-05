@@ -1,0 +1,52 @@
+\section{Mathematical Proofs and Theorems}
+
+Mathematical proofs and theorems are the core components of any mathematical text. They provide the logical foundation upon which mathematical theory is built. LaTeX, with the help of packages like `amsthm`, provides an excellent way to typeset these structures.
+
+\subsection{Sample Theorem}
+% To have these boxed just use boxedtheorem, or boxedlemma 
+\begin{boxedtheorem}
+If \( f: A \to B \) is bijective, then there exists an inverse function \( f^{-1}: B \to A \).
+\end{boxedtheorem}
+\begin{theorem}
+Let \( f: A \to B \) be a function from set \( A \) to set \( B \). If \( f \) is bijective, then there exists an inverse function \( f^{-1}: B \to A \).
+\end{theorem}
+
+\begin{proof}
+Since \( f \) is bijective, for each \( b \in B \), there exists a unique \( a \in A \) such that \( f(a) = b \). We define \( f^{-1}(b) = a \). To show that \( f^{-1} \) is the inverse of \( f \), we must demonstrate that \( f(f^{-1}(b)) = b \) for all \( b \in B \) and \( f^{-1}(f(a)) = a \) for all \( a \in A \).
+
+First, we show that \( f(f^{-1}(b)) = b \) for all \( b \in B \). Since \( f^{-1}(b) = a \), it follows that \( f(f^{-1}(b)) = f(a) = b \).
+
+Next, we show that \( f^{-1}(f(a)) = a \) for all \( a \in A \). Since \( f(a) = b \), and \( f^{-1}(b) = a \), it follows that \( f^{-1}(f(a)) = f^{-1}(b) = a \).
+
+Therefore, \( f^{-1} \) is the inverse function of \( f \).
+\end{proof}
+
+\subsection{Sample Lemma}
+\begin{lemma}
+For every non-empty set \( S \), if \( f: S \to S \) is injective, then \( f \) is surjective.
+\end{lemma}
+
+\begin{proof}
+(Sketch) Since \( S \) is non-empty and \( f \) is injective, every element of \( S \) maps to a distinct element of \( S \). Given the finiteness of \( S \), this implies that \( f \) must cover all elements of \( S \), hence it is surjective.
+\end{proof}
+
+
+\subsection{Sample Corollary}
+\begin{corollary}
+If \( f: A \to B \) and \( g: B \to C \) are bijective functions, then the composition \( g \circ f: A \to C \) is also bijective.
+\end{corollary}
+
+\begin{proof}
+Omitted for brevity.
+\end{proof}
+
+\subsection{Sample Definition}
+\begin{definition}
+A function \( f: A \to B \) is said to be \emph{injective} if for every \( a_1, a_2 \in A \), \( f(a_1) = f(a_2) \) implies that \( a_1 = a_2 \).
+\end{definition}
+
+\subsection{Sample Remark}
+\begin{remark}
+This is a remark that provides additional information or context about the material presented above.
+\end{remark}
+

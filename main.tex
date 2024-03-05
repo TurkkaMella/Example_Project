@@ -1,0 +1,54 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\usepackage{tikz, pgfplots}     % For drawing
+\pgfplotsset{compat=1.18}       % Spesifies version
+\usetikzlibrary{positioning}
+
+\usepackage{graphicx}   % Required for including RGB image files
+\usepackage{natbib}     % Needed for the Refrences chapter .bib file
+\usepackage{url}        % Needed for URL links
+%\usepackage{hyperref}  % Makes a reference into a hyperlink
+\usepackage{multicol}   % For the multicolumn chapter
+\usepackage{amsthm}     % For theorems          (Settings in a file)
+\usepackage{mdframed}   % For boxing theorems   (Settings in a file)
+\usepackage{mdframed}   % For boxing equations  (Settings in a file)
+\usepackage{listings}   % Code formatting       (Settings in a file)
+\usepackage{xcolor}
+
+\title{Graphics}
+\author{Turkka Mella}
+\date{March 2024}
+
+\begin{document}
+% Settings 
+\include{Settings - Theorem}
+\include{Settings - Theorem box}
+\include{Settings - Equation box}
+\include{Settings - Code}
+
+\maketitle
+\tableofcontents                % Makes the table of contents
+
+\include{Chapter - Abstract}    % Not numbered chapter 
+\include{Chapter - Image}       % Draw image example
+\include{Chapter - Essey}       % Essey example
+\include{Chapter - Equation}    % Equation example
+\include{Chapter - Reference}   % Reference example
+\include{Chapter - Footnote}    % Footnote example
+\include{Chapter - ImageRGB}    % External image example
+\include{Chapter - Multi column}% Multi column example
+\include{Chapter - Theorem}     % Theorems example
+\include{Chapter - Code}        % Code example
+
+\appendix
+\include{Appendix - Newton}
+\include{Appendix - Tesla}
+
+% References settings 
+\bibliographystyle{plain}   % BibTeX
+\bibliography{references}
+\addcontentsline{toc}{section}{References} % References to table of contents
+\nocite{*}  % FIGURE OUT HOW TO GET THE REFERENCES CHAPTER SHOW WITHOUT THIS LINE
+
+\end{document}
