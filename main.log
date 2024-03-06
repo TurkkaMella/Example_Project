@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.5)  6 MAR 2024 00:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.5)  6 MAR 2024 03:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -23,7 +23,7 @@ File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+) (Packages.tex (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
@@ -282,9 +282,7 @@ Package pgfplots: loading complementary utilities for your pgf version...
 File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplotmarks.code.tex
 File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypositioning.code.tex
-File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+))) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip50
 \bibsep=\skip51
@@ -558,23 +556,23 @@ File: lstmisc.sty 2024/02/21 1.10 (Carsten Heinz)
 File: listings.cfg 2024/02/21 1.10 listings configuration
 ))
 Package: listings 2024/02/21 1.10 (Carsten Heinz)
- (main.aux (Settings - Theorem.aux) (Settings - Theorem box.aux) (Settings - Equation box.aux) (Settings - Code.aux) (Chapter - Abstract.aux) (Chapter - Image.aux) (Chapter - Essey.aux) (Chapter - Equation.aux) (Chapter - Footnote.aux) (Chapter - ImageRGB.aux) (Chapter - Theorem.aux) (Appendix - Newton.aux) (Appendix - Tesla.aux))
+) (main.aux (Settings - tikz.aux) (Settings - Theorem.aux) (Settings - Equation box.aux) (Settings - Code.aux) (Chapter - Abstract.aux) (Chapter - Image.aux) (Chapter - Essey.aux) (Chapter - Equation.aux) (Chapter - Footnote.aux) (Chapter - ImageRGB.aux) (Chapter - Theorem.aux) (Appendix - Newton.aux) (Appendix - Tesla.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
  (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count320
@@ -597,15 +595,15 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 Package pgfplots notification 'compat/show suggested version=true': document has been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 
 \c@lstlisting=\count326
+\openout2 = `"Settings - tikz.aux"'.
+
+(Settings - tikz.tex (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
 \openout2 = `"Settings - Theorem.aux"'.
 
-(Settings - Theorem.tex
+ (Settings - Theorem.tex
 \c@theorem=\count327
-)
-\openout2 = `"Settings - Theorem box.aux"'.
-
- (Settings - Theorem box.tex
-\c@thm=\count328
 )
 \openout2 = `"Settings - Equation box.aux"'.
 
@@ -614,11 +612,11 @@ Package pgfplots notification 'compat/show suggested version=true': document has
 
  (Settings - Code.tex)
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 31.
+(Font)              <12> on input line 16.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 31.
+(Font)              <8> on input line 16.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 31.
+(Font)              <6> on input line 16.
  (main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 9.
@@ -705,7 +703,7 @@ Package pdftex.def Info: 66.png  used on input line 7.
  (Chapter - Theorem.tex
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 7.
+(mdframed)              on input line 8.
  [8
 
 
@@ -724,20 +722,20 @@ Package mdframed Info: mdframed detected package amsthm
 
 
 
-] (main.aux (Settings - Theorem.aux) (Settings - Theorem box.aux) (Settings - Equation box.aux) (Settings - Code.aux) (Chapter - Abstract.aux) (Chapter - Image.aux) (Chapter - Essey.aux) (Chapter - Equation.aux) (Chapter - Footnote.aux) (Chapter - ImageRGB.aux) (Chapter - Theorem.aux) (Appendix - Newton.aux) (Appendix - Tesla.aux))
+] (main.aux (Settings - tikz.aux) (Settings - Theorem.aux) (Settings - Equation box.aux) (Settings - Code.aux) (Chapter - Abstract.aux) (Chapter - Image.aux) (Chapter - Essey.aux) (Chapter - Equation.aux) (Chapter - Footnote.aux) (Chapter - ImageRGB.aux) (Chapter - Theorem.aux) (Appendix - Newton.aux) (Appendix - Tesla.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 27135 strings out of 474456
- 689622 string characters out of 5742262
+ 27119 strings out of 474456
+ 689028 string characters out of 5742262
  1937190 words of memory out of 5000000
- 48921 multiletter control sequences out of 15000+600000
+ 48902 multiletter control sequences out of 15000+600000
  562670 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,8n,107p,797b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 107i,8n,110p,818b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
 Output written on main.pdf (11 pages, 788443 bytes).
 PDF statistics:

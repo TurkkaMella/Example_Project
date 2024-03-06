@@ -3,10 +3,13 @@
 Mathematical proofs and theorems are the core components of any mathematical text. They provide the logical foundation upon which mathematical theory is built. LaTeX, with the help of packages like `amsthm`, provides an excellent way to typeset these structures.
 
 \subsection{Sample Theorem}
-% To have these boxed just use boxedtheorem, or boxedlemma 
-\begin{boxedtheorem}
-If \( f: A \to B \) is bijective, then there exists an inverse function \( f^{-1}: B \to A \).
-\end{boxedtheorem}
+% To have this boxed  
+\begin{mdframed}
+\begin{theorem}
+    If \( f: A \to B \) is bijective, then there exists an inverse function \( f^{-1}: B \to A \).
+\end{theorem}
+\end{mdframed}
+
 \begin{theorem}
 Let \( f: A \to B \) be a function from set \( A \) to set \( B \). If \( f \) is bijective, then there exists an inverse function \( f^{-1}: B \to A \).
 \end{theorem}
@@ -49,4 +52,3 @@ A function \( f: A \to B \) is said to be \emph{injective} if for every \( a_1, 
 \begin{remark}
 This is a remark that provides additional information or context about the material presented above.
 \end{remark}
-

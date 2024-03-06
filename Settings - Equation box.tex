@@ -1,8 +1,67 @@
-\mdfdefinestyle{equationframe}{
-    linecolor=white,
-    linewidth=1pt,
+% This line is already defined in "Settings - Theorem"
+% \newtheorem{theorem}{Theorem}[section]
+
+% Set up default settings for mdframed
+\mdfsetup{
+  linewidth=1pt,            % Width of the frame line
+  roundcorner=10pt,         % Amount of rounding of the corners
+  leftmargin=0,             % Space before the left margin
+  rightmargin=0,            % Space before the right margin
+  backgroundcolor=white!20, % Background color of the frame
+  linecolor=black           % Color of the frame line
+}
+% Example to box something using the default settings
+%   \begin{mdframed}
+%   This text is framed with global settings.
+%   \end{mdframed}
+
+% Define style format1
+\mdfdefinestyle{equation_style_box}{  % "equation_style" can be named anything you like
+    linecolor=blue,
+    linewidth=2pt,
     leftmargin=10pt,
     rightmargin=10pt,
-    backgroundcolor=gray!10,
+    backgroundcolor=gray!5,
+    roundcorner=10pt
+}
+% Define style format2
+\mdfdefinestyle{theorem_style_box}{
+    linecolor=red,
+    linewidth=3pt,
+    leftmargin=15pt,
+    rightmargin=15pt,
+    backgroundcolor=yellow!10,
+    roundcorner=15pt
+}
+% Define style format3
+\mdfdefinestyle{text_style_box}{
+    linecolor=green,
+    linewidth=1pt,
+    leftmargin=5pt,
+    rightmargin=5pt,
+    backgroundcolor=cyan!5,
     roundcorner=5pt
 }
+% These defined styles can be used like this:
+
+% Using format1
+%   \begin{mdframed}[style=equation_style_box]
+%   This content is framed with style format1.
+%   \end{mdframed}
+
+% Using format2
+%   \begin{mdframed}[style=theorem_style_box]
+%   This content is framed with style format2.
+%   \end{mdframed}
+  
+% Using format3
+%   \begin{mdframed}[style=text_style_box]
+%   This content is framed with style format3.
+%   \end{mdframed}
+
+% If you would want, you could add a command like this
+%   \newmdtheoremenv[style=text_style_box]{textBox}{Theorem}
+% After which, if you want to use the format3, you would use this syntax
+%   \begin{textBox}
+%   This is a framed text with style format3.
+%   \end{textBox}

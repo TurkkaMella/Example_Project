@@ -1,8 +1,36 @@
+% Note that these definitions are totally arbitrary, meaning that you could 
+% define anything like this. For example you could have:
+%   \theoremstyle{myAss}
+%   \newtheorem{myAss}[theorem]{myAss}
+% and you could use this with the syntax
+%   \begin{myAss}
+%   Let \( f: A \to B \) be a function from set \( A \) to set \( B \). If \( f \) is bijective, then there exists an inverse function \( f^{-1}: B \to A \).
+%   \end{myAss}
+
+% This defines 
+%   - "theorem" to be the keyword in commands like: \begin{theorem} ... \end{theorem}
+%   - "Theorem" to be the text that appears in the PDF with the numbering
+%   - "section" to be the father category of theorem, so that children of theorem will be in the same 
+%               numbering, meaning that if Lemma would be defined with syntax \newtheorem{lemma}{Lemma}[section]
+%               it would have its own numbering, since now theorem is not its father but brother, hence they 
+%               have now separate numberings.  
 \newtheorem{theorem}{Theorem}[section]
 \newtheorem{lemma}[theorem]{Lemma}
 \newtheorem{corollary}[theorem]{Corollary}
 \newtheorem{proposition}[theorem]{Proposition}
+
+% The \theoremstyle{definition} command was used before defining the definition environment to 
+% ensure that definitions are displayed differently (in upright text) than theorems, lemmas, 
+% and corollaries (which are typically in italic text). The lemma did not need a \theoremstyle 
+% command before it because lemmas, being similar to theorems in nature, use the default plain style, 
+% which is already applied.
 \theoremstyle{definition}
 \newtheorem{definition}[theorem]{Definition}
+
 \theoremstyle{remark}
 \newtheorem{remark}[theorem]{Remark}
+
+\theoremstyle{plain}
+\newtheorem{plain}[theorem]{Plain}
+
+% You can only use definition, remark, plain with this syntax since they are default. 

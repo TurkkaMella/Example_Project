@@ -7,6 +7,9 @@ INPUT C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
 INPUT C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
 INPUT C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT .\Packages.tex
+INPUT .\Packages.tex
+INPUT Packages.tex
 INPUT C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
 INPUT C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
 INPUT C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
@@ -185,8 +188,6 @@ INPUT C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlaye
 INPUT C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryplotmarks.code.tex
 INPUT C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryplotmarks.code.tex
 INPUT C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryplotmarks.code.tex
-INPUT C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypositioning.code.tex
-INPUT C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypositioning.code.tex
 INPUT C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex\latex\natbib\natbib.sty
 INPUT C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex\latex\natbib\natbib.sty
 INPUT C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
@@ -260,12 +261,12 @@ INPUT C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.
 INPUT .\main.aux
 INPUT .\main.aux
 INPUT main.aux
+INPUT .\Settings - tikz.aux
+INPUT .\Settings - tikz.aux
+INPUT Settings - tikz.aux
 INPUT .\Settings - Theorem.aux
 INPUT .\Settings - Theorem.aux
 INPUT Settings - Theorem.aux
-INPUT .\Settings - Theorem box.aux
-INPUT .\Settings - Theorem box.aux
-INPUT Settings - Theorem box.aux
 INPUT .\Settings - Equation box.aux
 INPUT .\Settings - Equation box.aux
 INPUT Settings - Equation box.aux
@@ -308,18 +309,20 @@ INPUT C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epsto
 INPUT C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT .\Settings - tikz.tex
+INPUT .\Settings - tikz.tex
+OUTPUT Settings - tikz.aux
+INPUT .\Settings - tikz.tex
+INPUT .\Settings - tikz.tex
+INPUT Settings - tikz.tex
+INPUT C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypositioning.code.tex
+INPUT C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypositioning.code.tex
 INPUT .\Settings - Theorem.tex
 INPUT .\Settings - Theorem.tex
 OUTPUT Settings - Theorem.aux
 INPUT .\Settings - Theorem.tex
 INPUT .\Settings - Theorem.tex
 INPUT Settings - Theorem.tex
-INPUT .\Settings - Theorem box.tex
-INPUT .\Settings - Theorem box.tex
-OUTPUT Settings - Theorem box.aux
-INPUT .\Settings - Theorem box.tex
-INPUT .\Settings - Theorem box.tex
-INPUT Settings - Theorem box.tex
 INPUT .\Settings - Equation box.tex
 INPUT .\Settings - Equation box.tex
 OUTPUT Settings - Equation box.aux
@@ -418,12 +421,12 @@ INPUT .\Appendix - Tesla.tex
 INPUT .\Appendix - Tesla.tex
 INPUT Appendix - Tesla.tex
 INPUT main.aux
+INPUT .\Settings - tikz.aux
+INPUT .\Settings - tikz.aux
+INPUT Settings - tikz.aux
 INPUT .\Settings - Theorem.aux
 INPUT .\Settings - Theorem.aux
 INPUT Settings - Theorem.aux
-INPUT .\Settings - Theorem box.aux
-INPUT .\Settings - Theorem box.aux
-INPUT Settings - Theorem box.aux
 INPUT .\Settings - Equation box.aux
 INPUT .\Settings - Equation box.aux
 INPUT Settings - Equation box.aux

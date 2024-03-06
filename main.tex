@@ -1,21 +1,6 @@
 \documentclass{article}
-\usepackage[utf8]{inputenc}
 
-\usepackage{tikz, pgfplots}     % For drawing
-\pgfplotsset{compat=1.18}       % Spesifies version
-\usetikzlibrary{positioning}
-
-\usepackage{graphicx}   % Required for including RGB image files
-\usepackage{natbib}     % Needed for the Refrences chapter .bib file  <--------------- COMMENTED OUT
-\usepackage{url}        % Needed for URL links
-%\usepackage{hyperref}  % Makes a reference into a hyperlink
-\usepackage{multicol}           % For the multicolumn chapter
-\usepackage[english]{babel}     % For multicol too
-\usepackage{amsthm}     % For theorems          (Settings in a file)
-\usepackage{mdframed}   % For boxing theorems   (Settings in a file)
-\usepackage{mdframed}   % For boxing equations  (Settings in a file)
-\usepackage{listings}   % Code formatting       (Settings in a file)
-\usepackage{xcolor}
+\input{Packages.tex}
 
 \title{Graphics}
 \author{Turkka Mella}
@@ -23,21 +8,21 @@
 
 \begin{document}
 % Settings 
+\include{Settings - tikz}           % Needs to be first
 \include{Settings - Theorem}
-\include{Settings - Theorem box}
 \include{Settings - Equation box}
 \include{Settings - Code}
 
 \maketitle
 \tableofcontents                % Makes the table of contents
 
-\include{Chapter - Abstract}    % Not numbered chapter 
+\include{Chapter - Abstract}    % Not numbered chapter
 \include{Chapter - Image}       % Draw image example
 \include{Chapter - Essey}       % Essey example
 \include{Chapter - Equation}    % Equation example
 % \include{Chapter - Reference}   % Reference example           <--------------- COMMENTED OUT
 \include{Chapter - Footnote}    % Footnote example
-\include{Chapter - ImageRGB}    % External image example      <--------------- COMMENTED OUT
+\include{Chapter - ImageRGB}    % External image example 
 % \include{Chapter - Multi column}% Multi column example        <--------------- COMMENTED OUT
 \include{Chapter - Theorem}     % Theorems example
 % \include{Chapter - Code}        % Code example
