@@ -1,0 +1,4 @@
+\section{Chitation examples}
+LaTeX's referencing capabilities extend to documenting historical academic contributions. For instance, Albert Einstein's seminal work on the theory of relativity \cite{einstein2013principle} revolutionized our understanding of space, time, and gravity. Meanwhile, Nikola Tesla's innovative experiments paved the way for the modern use of alternating current \cite{tesla1888electrical}, and his life continues to be a subject of great interest as detailed in various biographies \cite{vujovic1998tesla}. 
+
+This referencing system not only streamlines the writing process but also enhances the document's accuracy and readability. It exemplifies LaTeX's power in managing complex documents, making it an indispensable tool for academic writing and technical documentation.

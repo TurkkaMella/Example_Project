@@ -8,33 +8,34 @@
 
 \begin{document}
 % Settings 
-\include{Settings - tikz}           % Needs to be first
-\include{Settings - Theorem}
-\include{Settings - Equation box}
-\include{Settings - Code}
+\input{Settings files/Settings - tikz}           % Needs to be first
+\input{Settings files/Settings - Theorem}
+\input{Settings files/Settings - Equation box}
+\input{Settings files/Settings - Code}
 
 \maketitle
 \tableofcontents                % Makes the table of contents
 
-\include{Chapter - Abstract}    % Not numbered chapter
-\include{Chapter - Image}       % Draw image example
-\include{Chapter - Essey}       % Essey example
-\include{Chapter - Equation}    % Equation example
-% \include{Chapter - Reference}   % Reference example           <--------------- COMMENTED OUT
-\include{Chapter - Footnote}    % Footnote example
-\include{Chapter - ImageRGB}    % External image example 
-% \include{Chapter - Multi column}% Multi column example        <--------------- COMMENTED OUT
-\include{Chapter - Theorem}     % Theorems example
-% \include{Chapter - Code}        % Code example
+\input{Chapter files/Chapter - Abstract}    % Not numbered chapter
+\input{Chapter files/Chapter - Image}       % Draw image example
+\input{Chapter files/Chapter - Essey}       % Essey example
+\input{Chapter files/Chapter - Equation}    % Equation example
+\input{Chapter files/Chapter - Reference}   % Reference example   
+\input{Chapter files/Chapter - Citations}   % Citation example    
+\input{Chapter files/Chapter - Footnote}    % Footnote example
+\input{Chapter files/Chapter - ImageRGB}    % External image example 
+\input{Chapter files/Chapter - Multi column}% Multi column example    
+\input{Chapter files/Chapter - Theorem}     % Theorems example
+\input{Chapter files/Chapter - Code}        % Code example
+
+Relativity \cite{einstein2013principle} and such as that.
 
 \appendix
-\include{Appendix - Newton}
-\include{Appendix - Tesla}
+\input{Appendix files/Appendix - Newton} % THESE NEED TO BE input AND NOT include, because otherwise bibliography gives errors
+\input{Appendix files/Appendix - Tesla}
 
-% References settings 
-% \bibliographystyle{plain}   % BibTeX
-% \bibliography{references}
-% \addcontentsline{toc}{section}{References} % References to table of contents
-% \nocite{*}                                                     <--------------- COMMENTED OUT
+\bibliography{references}
+\addcontentsline{toc}{section}{References} % References to table of contents
+% \nocite{*} This command shows all the source for citations even if they aren't used
 
 \end{document}

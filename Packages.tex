@@ -1,16 +1,29 @@
 \usepackage[utf8]{inputenc}
+
+% Bibliography: Using natbib with BibTeX
+\usepackage[english]{babel}
+\usepackage[numbers]{natbib}                % Needed for the bibliography .bib file  
+\bibliographystyle{plain}                   % BibTeX. Defaults: plain, unsrt, alpha, abbrv
+
 \usepackage{tikz, pgfplots} % For drawing with tikz
 \pgfplotsset{compat=1.18}       % Spesifies version
+
 \usepackage{graphicx}       % Required for including RGB image files
-\usepackage{natbib}         % Needed for the Refrences chapter .bib file  
+
+% Bibliography: Using biblatex with biber
+% \usepackage[backend=biber]{biblatex}      % Needed for the bibliography
+% \addbibresource{references.bib}
+
 \usepackage{url}            % Needed for URL links
+
 %\usepackage{hyperref}      % Makes a reference into a hyperlink
+
 \usepackage{multicol}       % For the multicolumn chapter
-\usepackage[english]{babel} % For multicol too
+\usepackage{microtype}      % For the multicol chapter
+
 \usepackage{amsthm}         % For theorems          (Settings in a file)
-\usepackage{mdframed}       % For boxing theorems   (Settings in a file)
-\usepackage{mdframed}       % For boxing equations  (Settings in a file)
+
+\usepackage{mdframed}       % For boxing equations and  theorems  (Settings in a file)
+
 \usepackage{listings}       % Code formatting       (Settings in a file)
 \usepackage{xcolor}         % Code formatting
-\usepackage{amsthm}         % For theorems
-\usepackage{mdframed}       % For boxing theorems and equations

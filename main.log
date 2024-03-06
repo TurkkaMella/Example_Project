@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.5)  6 MAR 2024 03:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.5)  6 MAR 2024 23:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -27,10 +27,41 @@ File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
+) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2024/02/07 v24.2 The Babel package
+\babel@savecnt=\count196
+\U@D=\dimen141
+\l@unhyphenated=\language79
+ (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count197
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+)) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip50
+\bibsep=\skip51
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count198
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
 \pgfutil@everybye=\toks19
-\pgfutil@tempdima=\dimen141
-\pgfutil@tempdimb=\dimen142
+\pgfutil@tempdima=\dimen142
+\pgfutil@tempdimb=\dimen143
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
 \pgfutil@abb=\box51
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
@@ -53,8 +84,8 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
  (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen143
-\Gin@req@width=\dimen144
+\Gin@req@height=\dimen144
+\Gin@req@width=\dimen145
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
@@ -63,26 +94,26 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks23
 ))
-\pgf@x=\dimen145
-\pgf@y=\dimen146
-\pgf@xa=\dimen147
-\pgf@ya=\dimen148
-\pgf@xb=\dimen149
-\pgf@yb=\dimen150
-\pgf@xc=\dimen151
-\pgf@yc=\dimen152
-\pgf@xd=\dimen153
-\pgf@yd=\dimen154
+\pgf@x=\dimen146
+\pgf@y=\dimen147
+\pgf@xa=\dimen148
+\pgf@ya=\dimen149
+\pgf@xb=\dimen150
+\pgf@yb=\dimen151
+\pgf@xc=\dimen152
+\pgf@yc=\dimen153
+\pgf@xd=\dimen154
+\pgf@yd=\dimen155
 \w@pgf@writea=\write3
-\r@pgf@reada=\read2
-\c@pgf@counta=\count196
-\c@pgf@countb=\count197
-\c@pgf@countc=\count198
-\c@pgf@countd=\count199
+\r@pgf@reada=\read3
+\c@pgf@counta=\count199
+\c@pgf@countb=\count266
+\c@pgf@countc=\count267
+\c@pgf@countd=\count268
 \t@pgf@toka=\toks24
 \t@pgf@tokb=\toks25
 \t@pgf@tokc=\toks26
-\pgf@sys@id@count=\count266
+\pgf@sys@id@count=\count269
  (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
@@ -93,8 +124,8 @@ File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 ))) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count267
-\pgfsyssoftpath@bigbuffer@items=\count268
+\pgfsyssoftpath@smallbuffer@items=\count270
+\pgfsyssoftpath@bigbuffer@items=\count271
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
@@ -116,52 +147,52 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
-\pgfmath@dimen=\dimen155
-\pgfmath@count=\count269
+\pgfmath@dimen=\dimen156
+\pgfmath@count=\count272
 \pgfmath@box=\box52
 \pgfmath@toks=\toks27
 \pgfmath@stack@operand=\toks28
 \pgfmath@stack@operation=\toks29
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count270
+\c@pgfmathroundto@lastzeros=\count273
 )) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@picminx=\dimen156
-\pgf@picmaxx=\dimen157
-\pgf@picminy=\dimen158
-\pgf@picmaxy=\dimen159
-\pgf@pathminx=\dimen160
-\pgf@pathmaxx=\dimen161
-\pgf@pathminy=\dimen162
-\pgf@pathmaxy=\dimen163
-\pgf@xx=\dimen164
-\pgf@xy=\dimen165
-\pgf@yx=\dimen166
-\pgf@yy=\dimen167
-\pgf@zx=\dimen168
-\pgf@zy=\dimen169
+\pgf@picminx=\dimen157
+\pgf@picmaxx=\dimen158
+\pgf@picminy=\dimen159
+\pgf@picmaxy=\dimen160
+\pgf@pathminx=\dimen161
+\pgf@pathmaxx=\dimen162
+\pgf@pathminy=\dimen163
+\pgf@pathmaxy=\dimen164
+\pgf@xx=\dimen165
+\pgf@xy=\dimen166
+\pgf@yx=\dimen167
+\pgf@yy=\dimen168
+\pgf@zx=\dimen169
+\pgf@zy=\dimen170
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@path@lastx=\dimen170
-\pgf@path@lasty=\dimen171
+\pgf@path@lastx=\dimen171
+\pgf@path@lasty=\dimen172
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@shorten@end@additional=\dimen172
-\pgf@shorten@start@additional=\dimen173
+\pgf@shorten@end@additional=\dimen173
+\pgf@shorten@start@additional=\dimen174
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box53
 \pgf@hbox=\box54
 \pgf@layerbox@main=\box55
-\pgf@picture@serial@count=\count271
+\pgf@picture@serial@count=\count274
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgflinewidth=\dimen174
+\pgflinewidth=\dimen175
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@pt@x=\dimen175
-\pgf@pt@y=\dimen176
-\pgf@pt@temp=\dimen177
+\pgf@pt@x=\dimen176
+\pgf@pt@y=\dimen177
+\pgf@pt@temp=\dimen178
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
@@ -170,12 +201,12 @@ File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowsep=\dimen178
+\pgfarrowsep=\dimen179
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@max=\dimen179
-\pgf@sys@shading@range@num=\count272
-\pgf@shadingcount=\count273
+\pgf@max=\dimen180
+\pgf@sys@shading@range@num=\count275
+\pgf@shadingcount=\count276
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
@@ -196,46 +227,46 @@ File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen180
-\pgf@nodesepend=\dimen181
+\pgf@nodesepstart=\dimen181
+\pgf@nodesepend=\dimen182
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 )) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen182
-\pgffor@skip=\dimen183
+\pgffor@iter=\dimen183
+\pgffor@skip=\dimen184
 \pgffor@stack=\toks30
 \pgffor@toks=\toks31
 )) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count274
-\pgfplotmarksize=\dimen184
+\pgf@plot@mark@count=\count277
+\pgfplotmarksize=\dimen185
 )
-\tikz@lastx=\dimen185
-\tikz@lasty=\dimen186
-\tikz@lastxsaved=\dimen187
-\tikz@lastysaved=\dimen188
-\tikz@lastmovetox=\dimen189
-\tikz@lastmovetoy=\dimen190
-\tikzleveldistance=\dimen191
-\tikzsiblingdistance=\dimen192
+\tikz@lastx=\dimen186
+\tikz@lasty=\dimen187
+\tikz@lastxsaved=\dimen188
+\tikz@lastysaved=\dimen189
+\tikz@lastmovetox=\dimen190
+\tikz@lastmovetoy=\dimen191
+\tikzleveldistance=\dimen192
+\tikzsiblingdistance=\dimen193
 \tikz@figbox=\box58
 \tikz@figbox@bg=\box59
 \tikz@tempbox=\box60
 \tikz@tempbox@bg=\box61
-\tikztreelevel=\count275
-\tikznumberofchildren=\count276
-\tikznumberofcurrentchild=\count277
-\tikz@fig@count=\count278
+\tikztreelevel=\count278
+\tikznumberofchildren=\count279
+\tikznumberofcurrentchild=\count280
+\tikz@fig@count=\count281
  (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count279
-\pgfmatrixcurrentcolumn=\count280
-\pgf@matrix@numberofcolumns=\count281
+\pgfmatrixcurrentrow=\count282
+\pgfmatrixcurrentcolumn=\count283
+\pgf@matrix@numberofcolumns=\count284
 )
-\tikz@expandcount=\count282
+\tikz@expandcount=\count285
  (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.revision.tex)
@@ -244,73 +275,67 @@ Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
 \t@pgfplots@toka=\toks32
 \t@pgfplots@tokb=\toks33
 \t@pgfplots@tokc=\toks34
-\pgfplots@tmpa=\dimen193
-\c@pgfplots@coordindex=\count283
-\c@pgfplots@scanlineindex=\count284
+\pgfplots@tmpa=\dimen194
+\c@pgfplots@coordindex=\count286
+\c@pgfplots@scanlineindex=\count287
  (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex)) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryfpu.code.tex)
 Package pgfplots: loading complementary utilities for your pgf version...
 \t@pgf@toka=\toks35
 \t@pgf@tokb=\toks36
 \t@pgf@tokc=\toks37
 (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex)) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.code.tex (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructure.code.tex) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructureext.code.tex) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsarray.code.tex
-\c@pgfplotsarray@tmp=\count285
+\c@pgfplotsarray@tmp=\count288
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code.tex) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\pgfplotstableshared.code.tex
-\c@pgfplotstable@counta=\count286
+\c@pgfplotstable@counta=\count289
 \t@pgfplotstable@a=\toks38
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.tex) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.code.tex (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex)) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshading.code.tex
-\c@pgfplotslibrarysurf@no=\count287
+\c@pgfplotslibrarysurf@no=\count290
  (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def))) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotscolormap.code.tex (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotscolor.code.tex)) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsstackedplots.code.tex) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsplothandlers.code.tex (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplothandler.code.tex (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplotimage.code.tex))) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.scaling.code.tex) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscoordprocessing.code.tex) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.errorbars.code.tex) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.markers.code.tex) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsticks.code.tex) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.paths.code.tex) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.code.tex (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
-\pgfdecoratedcompleteddistance=\dimen194
-\pgfdecoratedremainingdistance=\dimen195
-\pgfdecoratedinputsegmentcompleteddistance=\dimen196
-\pgfdecoratedinputsegmentremainingdistance=\dimen197
-\pgf@decorate@distancetomove=\dimen198
-\pgf@decorate@repeatstate=\count288
-\pgfdecorationsegmentamplitude=\dimen199
-\pgfdecorationsegmentlength=\dimen256
+\pgfdecoratedcompleteddistance=\dimen195
+\pgfdecoratedremainingdistance=\dimen196
+\pgfdecoratedinputsegmentcompleteddistance=\dimen197
+\pgfdecoratedinputsegmentremainingdistance=\dimen198
+\pgf@decorate@distancetomove=\dimen199
+\pgf@decorate@repeatstate=\count291
+\pgfdecorationsegmentamplitude=\dimen256
+\pgfdecorationsegmentlength=\dimen257
 )
 \tikz@lib@dec@box=\box62
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathmorphing.code.tex)) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathreplacing.code.tex)) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlibrarypgfplots.contourlua.code.tex)
-\pgfplots@numplots=\count289
-\pgfplots@xmin@reg=\dimen257
-\pgfplots@xmax@reg=\dimen258
-\pgfplots@ymin@reg=\dimen259
-\pgfplots@ymax@reg=\dimen260
-\pgfplots@zmin@reg=\dimen261
-\pgfplots@zmax@reg=\dimen262
+\pgfplots@numplots=\count292
+\pgfplots@xmin@reg=\dimen258
+\pgfplots@xmax@reg=\dimen259
+\pgfplots@ymin@reg=\dimen260
+\pgfplots@ymax@reg=\dimen261
+\pgfplots@zmin@reg=\dimen262
+\pgfplots@zmax@reg=\dimen263
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryplotmarks.code.tex
 File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplotmarks.code.tex
 File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
-Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip50
-\bibsep=\skip51
-LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count290
-) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+))) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
-\c@tracingmulticols=\count291
+\c@tracingmulticols=\count293
 \mult@box=\box63
-\multicol@leftmargin=\dimen263
-\c@unbalance=\count292
-\c@collectmore=\count293
-\doublecol@number=\count294
-\multicoltolerance=\count295
-\multicolpretolerance=\count296
-\full@width=\dimen264
-\page@free=\dimen265
-\premulticols=\dimen266
-\postmulticols=\dimen267
+\multicol@leftmargin=\dimen264
+\c@unbalance=\count294
+\c@collectmore=\count295
+\doublecol@number=\count296
+\multicoltolerance=\count297
+\multicolpretolerance=\count298
+\full@width=\dimen265
+\page@free=\dimen266
+\premulticols=\dimen267
+\postmulticols=\dimen268
 \multicolsep=\skip52
 \multicolbaselineskip=\skip53
 \partial@page=\box64
 \last@line=\box65
 \mc@boxedresult=\box66
-\maxbalancingoverflow=\dimen268
+\maxbalancingoverflow=\dimen269
 \mult@rightbox=\box67
 \mult@grightbox=\box68
 \mult@firstbox=\box69
@@ -351,51 +376,52 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \@tempa=\box104
 \@tempa=\box105
 \@tempa=\box106
-\c@minrows=\count297
-\c@columnbadness=\count298
-\c@finalcolumnbadness=\count299
-\last@try=\dimen269
-\multicolovershoot=\dimen270
-\multicolundershoot=\dimen271
+\c@minrows=\count299
+\c@columnbadness=\count300
+\c@finalcolumnbadness=\count301
+\last@try=\dimen270
+\multicolovershoot=\dimen271
+\multicolundershoot=\dimen272
 \mult@nat@firstbox=\box107
 \colbreak@box=\box108
-\mc@col@check@num=\count300
-) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2024/02/07 v24.2 The Babel package
-\babel@savecnt=\count301
-\U@D=\dimen272
-\l@unhyphenated=\language79
- (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
-\bbl@readstream=\read3
-\bbl@dirlevel=\count302
-
-*************************************
-* Local config file bblopts.cfg used
-*
-(C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
-) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ldf
-Language: english 2017/06/06 v3.3r English support from the babel system
-Package babel Info: Hyphen rules for 'canadian' set to \l@english
-(babel)             (\language0). Reported on input line 102.
-Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language73). Reported on input line 105.
-Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language73). Reported on input line 108.
-)) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel-english.tex
-Package babel Info: Importing font and identification data for english
-(babel)             from babel-en.ini. Reported on input line 11.
-) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+\mc@col@check@num=\count302
+) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
+ (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count303
+)
+\MT@toks=\toks39
+\MT@tempbox=\box109
+\MT@count=\count304
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
+LaTeX Info: Redefining \leftprotrusion on input line 1060.
+\MT@prot@toks=\toks40
+LaTeX Info: Redefining \rightprotrusion on input line 1078.
+LaTeX Info: Redefining \textls on input line 1368.
+\MT@outer@kern=\dimen273
+LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
+\MT@listname@count=\count305
+ (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdftex.def
+File: microtype-pdftex.def 2023/03/13 v3.1a Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 902.
+LaTeX Info: Redefining \lslig on input line 902.
+\MT@outer@space=\skip54
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
+)) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
-\thm@style=\toks39
-\thm@bodyfont=\toks40
-\thm@headfont=\toks41
-\thm@notefont=\toks42
-\thm@headpunct=\toks43
-\thm@preskip=\skip54
-\thm@postskip=\skip55
-\thm@headsep=\skip56
-\dth@everypar=\toks44
+\thm@style=\toks41
+\thm@bodyfont=\toks42
+\thm@headfont=\toks43
+\thm@notefont=\toks44
+\thm@headpunct=\toks45
+\thm@preskip=\skip55
+\thm@postskip=\skip56
+\thm@headsep=\skip57
+\dth@everypar=\toks46
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/mdframed\mdframed.sty
 Package: mdframed 2013/07/01 1.9b: mdframed
  (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
@@ -408,13 +434,10 @@ Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 Package: expl3 2024-02-20 L3 programming layer (loader) 
  (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count303
-\l__pdf_internal_box=\box109
+\l__color_backend_stack_int=\count306
+\l__pdf_internal_box=\box110
 ))
 Package: xparse 2024-02-18 L3 Experimental document command parser
-) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count304
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-abspage.sty
 Package: zref-abspage 2023-09-14 v2.35 Module abspage for zref (HO)
  (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-base.sty
@@ -440,123 +463,123 @@ Package zref Info: New property list: main on input line 767.
 Package zref Info: New property: default on input line 768.
 Package zref Info: New property: page on input line 769.
 )
-\c@abspage=\count305
+\c@abspage=\count307
 Package zref Info: New property: abspage on input line 67.
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/needspace\needspace.sty
 Package: needspace 2010/09/12 v1.3d reserve vertical space
 )
-\mdf@templength=\skip57
-\c@mdf@globalstyle@cnt=\count306
-\mdf@skipabove@length=\skip58
-\mdf@skipbelow@length=\skip59
-\mdf@leftmargin@length=\skip60
-\mdf@rightmargin@length=\skip61
-\mdf@innerleftmargin@length=\skip62
-\mdf@innerrightmargin@length=\skip63
-\mdf@innertopmargin@length=\skip64
-\mdf@innerbottommargin@length=\skip65
-\mdf@splittopskip@length=\skip66
-\mdf@splitbottomskip@length=\skip67
-\mdf@outermargin@length=\skip68
-\mdf@innermargin@length=\skip69
-\mdf@linewidth@length=\skip70
-\mdf@innerlinewidth@length=\skip71
-\mdf@middlelinewidth@length=\skip72
-\mdf@outerlinewidth@length=\skip73
-\mdf@roundcorner@length=\skip74
-\mdf@footenotedistance@length=\skip75
-\mdf@userdefinedwidth@length=\skip76
-\mdf@needspace@length=\skip77
-\mdf@frametitleaboveskip@length=\skip78
-\mdf@frametitlebelowskip@length=\skip79
-\mdf@frametitlerulewidth@length=\skip80
-\mdf@frametitleleftmargin@length=\skip81
-\mdf@frametitlerightmargin@length=\skip82
-\mdf@shadowsize@length=\skip83
-\mdf@extratopheight@length=\skip84
-\mdf@subtitleabovelinewidth@length=\skip85
-\mdf@subtitlebelowlinewidth@length=\skip86
-\mdf@subtitleaboveskip@length=\skip87
-\mdf@subtitlebelowskip@length=\skip88
-\mdf@subtitleinneraboveskip@length=\skip89
-\mdf@subtitleinnerbelowskip@length=\skip90
-\mdf@subsubtitleabovelinewidth@length=\skip91
-\mdf@subsubtitlebelowlinewidth@length=\skip92
-\mdf@subsubtitleaboveskip@length=\skip93
-\mdf@subsubtitlebelowskip@length=\skip94
-\mdf@subsubtitleinneraboveskip@length=\skip95
-\mdf@subsubtitleinnerbelowskip@length=\skip96
+\mdf@templength=\skip58
+\c@mdf@globalstyle@cnt=\count308
+\mdf@skipabove@length=\skip59
+\mdf@skipbelow@length=\skip60
+\mdf@leftmargin@length=\skip61
+\mdf@rightmargin@length=\skip62
+\mdf@innerleftmargin@length=\skip63
+\mdf@innerrightmargin@length=\skip64
+\mdf@innertopmargin@length=\skip65
+\mdf@innerbottommargin@length=\skip66
+\mdf@splittopskip@length=\skip67
+\mdf@splitbottomskip@length=\skip68
+\mdf@outermargin@length=\skip69
+\mdf@innermargin@length=\skip70
+\mdf@linewidth@length=\skip71
+\mdf@innerlinewidth@length=\skip72
+\mdf@middlelinewidth@length=\skip73
+\mdf@outerlinewidth@length=\skip74
+\mdf@roundcorner@length=\skip75
+\mdf@footenotedistance@length=\skip76
+\mdf@userdefinedwidth@length=\skip77
+\mdf@needspace@length=\skip78
+\mdf@frametitleaboveskip@length=\skip79
+\mdf@frametitlebelowskip@length=\skip80
+\mdf@frametitlerulewidth@length=\skip81
+\mdf@frametitleleftmargin@length=\skip82
+\mdf@frametitlerightmargin@length=\skip83
+\mdf@shadowsize@length=\skip84
+\mdf@extratopheight@length=\skip85
+\mdf@subtitleabovelinewidth@length=\skip86
+\mdf@subtitlebelowlinewidth@length=\skip87
+\mdf@subtitleaboveskip@length=\skip88
+\mdf@subtitlebelowskip@length=\skip89
+\mdf@subtitleinneraboveskip@length=\skip90
+\mdf@subtitleinnerbelowskip@length=\skip91
+\mdf@subsubtitleabovelinewidth@length=\skip92
+\mdf@subsubtitlebelowlinewidth@length=\skip93
+\mdf@subsubtitleaboveskip@length=\skip94
+\mdf@subsubtitlebelowskip@length=\skip95
+\mdf@subsubtitleinneraboveskip@length=\skip96
+\mdf@subsubtitleinnerbelowskip@length=\skip97
  (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/mdframed\md-frame-0.mdf
 File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 )
-\mdf@frametitlebox=\box110
-\mdf@footnotebox=\box111
-\mdf@splitbox@one=\box112
-\mdf@splitbox@two=\box113
-\mdf@splitbox@save=\box114
-\mdfsplitboxwidth=\skip97
-\mdfsplitboxtotalwidth=\skip98
-\mdfsplitboxheight=\skip99
-\mdfsplitboxdepth=\skip100
-\mdfsplitboxtotalheight=\skip101
-\mdfframetitleboxwidth=\skip102
-\mdfframetitleboxtotalwidth=\skip103
-\mdfframetitleboxheight=\skip104
-\mdfframetitleboxdepth=\skip105
-\mdfframetitleboxtotalheight=\skip106
-\mdffootnoteboxwidth=\skip107
-\mdffootnoteboxtotalwidth=\skip108
-\mdffootnoteboxheight=\skip109
-\mdffootnoteboxdepth=\skip110
-\mdffootnoteboxtotalheight=\skip111
-\mdftotallinewidth=\skip112
-\mdfboundingboxwidth=\skip113
-\mdfboundingboxtotalwidth=\skip114
-\mdfboundingboxheight=\skip115
-\mdfboundingboxdepth=\skip116
-\mdfboundingboxtotalheight=\skip117
-\mdf@freevspace@length=\skip118
-\mdf@horizontalwidthofbox@length=\skip119
-\mdf@verticalmarginwhole@length=\skip120
-\mdf@horizontalspaceofbox=\skip121
-\mdfsubtitleheight=\skip122
-\mdfsubsubtitleheight=\skip123
-\c@mdfcountframes=\count307
+\mdf@frametitlebox=\box111
+\mdf@footnotebox=\box112
+\mdf@splitbox@one=\box113
+\mdf@splitbox@two=\box114
+\mdf@splitbox@save=\box115
+\mdfsplitboxwidth=\skip98
+\mdfsplitboxtotalwidth=\skip99
+\mdfsplitboxheight=\skip100
+\mdfsplitboxdepth=\skip101
+\mdfsplitboxtotalheight=\skip102
+\mdfframetitleboxwidth=\skip103
+\mdfframetitleboxtotalwidth=\skip104
+\mdfframetitleboxheight=\skip105
+\mdfframetitleboxdepth=\skip106
+\mdfframetitleboxtotalheight=\skip107
+\mdffootnoteboxwidth=\skip108
+\mdffootnoteboxtotalwidth=\skip109
+\mdffootnoteboxheight=\skip110
+\mdffootnoteboxdepth=\skip111
+\mdffootnoteboxtotalheight=\skip112
+\mdftotallinewidth=\skip113
+\mdfboundingboxwidth=\skip114
+\mdfboundingboxtotalwidth=\skip115
+\mdfboundingboxheight=\skip116
+\mdfboundingboxdepth=\skip117
+\mdfboundingboxtotalheight=\skip118
+\mdf@freevspace@length=\skip119
+\mdf@horizontalwidthofbox@length=\skip120
+\mdf@verticalmarginwhole@length=\skip121
+\mdf@horizontalspaceofbox=\skip122
+\mdfsubtitleheight=\skip123
+\mdfsubsubtitleheight=\skip124
+\c@mdfcountframes=\count309
 
 ****** mdframed patching \endmdf@trivlist
 
 ****** -- success******
 
-\mdf@envdepth=\count308
-\c@mdf@env@i=\count309
-\c@mdf@env@ii=\count310
-\c@mdf@zref@counter=\count311
+\mdf@envdepth=\count310
+\c@mdf@env@i=\count311
+\c@mdf@env@ii=\count312
+\c@mdf@zref@counter=\count313
 Package zref Info: New property: mdf@pagevalue on input line 895.
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
-\lst@mode=\count312
-\lst@gtempboxa=\box115
-\lst@token=\toks45
-\lst@length=\count313
-\lst@currlwidth=\dimen273
-\lst@column=\count314
-\lst@pos=\count315
-\lst@lostspace=\dimen274
-\lst@width=\dimen275
-\lst@newlines=\count316
-\lst@lineno=\count317
-\lst@maxwidth=\dimen276
+\lst@mode=\count314
+\lst@gtempboxa=\box116
+\lst@token=\toks47
+\lst@length=\count315
+\lst@currlwidth=\dimen274
+\lst@column=\count316
+\lst@pos=\count317
+\lst@lostspace=\dimen275
+\lst@width=\dimen276
+\lst@newlines=\count318
+\lst@lineno=\count319
+\lst@maxwidth=\dimen277
  (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
 File: lstpatch.sty 2024/02/21 1.10 (Carsten Heinz)
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2024/02/21 1.10 (Carsten Heinz)
-\c@lstnumber=\count318
-\lst@skipnumbers=\count319
-\lst@framebox=\box116
+\c@lstnumber=\count320
+\lst@skipnumbers=\count321
+\lst@framebox=\box117
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
 File: listings.cfg 2024/02/21 1.10 listings configuration
 ))
 Package: listings 2024/02/21 1.10 (Carsten Heinz)
-) (main.aux (Settings - tikz.aux) (Settings - Theorem.aux) (Settings - Equation box.aux) (Settings - Code.aux) (Chapter - Abstract.aux) (Chapter - Image.aux) (Chapter - Essey.aux) (Chapter - Equation.aux) (Chapter - Footnote.aux) (Chapter - ImageRGB.aux) (Chapter - Theorem.aux) (Appendix - Newton.aux) (Appendix - Tesla.aux))
+) (main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -575,17 +598,17 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
  (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count320
-\scratchdimen=\dimen277
-\scratchbox=\box117
-\nofMPsegments=\count321
-\nofMParguments=\count322
-\everyMPshowfont=\toks46
-\MPscratchCnt=\count323
-\MPscratchDim=\dimen278
-\MPnumerator=\count324
-\makeMPintoPDFobject=\count325
-\everyMPtoPDFconversion=\toks47
+\scratchcounter=\count322
+\scratchdimen=\dimen278
+\scratchbox=\box118
+\nofMPsegments=\count323
+\nofMParguments=\count324
+\everyMPshowfont=\toks48
+\MPscratchCnt=\count325
+\MPscratchDim=\dimen279
+\MPnumerator=\count326
+\makeMPintoPDFobject=\count327
+\everyMPtoPDFconversion=\toks49
 ) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -594,23 +617,31 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package pgfplots notification 'compat/show suggested version=true': document has been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 
-\c@lstlisting=\count326
-\openout2 = `"Settings - tikz.aux"'.
-
-(Settings - tikz.tex (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypositioning.code.tex
-File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))
-\openout2 = `"Settings - Theorem.aux"'.
-
- (Settings - Theorem.tex
-\c@theorem=\count327
+LaTeX Info: Redefining \microtypecontext on input line 9.
+Package microtype Info: Applying patch `item' on input line 9.
+Package microtype Info: Applying patch `toc' on input line 9.
+Package microtype Info: Applying patch `eqnum' on input line 9.
+Package microtype Info: Applying patch `footnote' on input line 9.
+Package microtype Info: Applying patch `verbatim' on input line 9.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 9.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+(C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-\openout2 = `"Settings - Equation box.aux"'.
-
- (Settings - Equation box.tex)
-\openout2 = `"Settings - Code.aux"'.
-
- (Settings - Code.tex)
+\c@lstlisting=\count328
+ (Settings files/Settings - tikz.tex (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (Settings files/Settings - Theorem.tex
+\c@theorem=\count329
+) (Settings files/Settings - Equation box.tex) (Settings files/Settings - Code.tex)
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 16.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -619,127 +650,67 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 16.
  (main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 9.
+(Font)              <7> on input line 12.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 9.
+(Font)              <5> on input line 12.
 )
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [1
+ (Chapter files/Chapter - Abstract.tex) (Chapter files/Chapter - Image.tex [1
 
-
-
-
-
-
-
-
-
-
-
-
-
-{C:/Users/Turkka/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-\openout2 = `"Chapter - Abstract.aux"'.
-
- (Chapter - Abstract.tex) [2
-
-]
-\openout2 = `"Chapter - Image.aux"'.
-
- (Chapter - Image.tex) [3
-
-
-
-]
-\openout2 = `"Chapter - Essey.aux"'.
-
- (Chapter - Essey.tex) [4
-
-
-
-]
-\openout2 = `"Chapter - Equation.aux"'.
-
- (Chapter - Equation.tex
+{C:/Users/Turkka/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]) (Chapter files/Chapter - Essey.tex [2]) (Chapter files/Chapter - Equation.tex
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 17.
-) [5
-
-
-
-]
-\openout2 = `"Chapter - Footnote.aux"'.
-
- (Chapter - Footnote.tex
+) (Chapter files/Chapter - Reference.tex [3]) (Chapter files/Chapter - Citations) (Chapter files/Chapter - Footnote.tex
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 7.
  (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
 File: omscmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 7.
-) [6
-
-
-
-]
-\openout2 = `"Chapter - ImageRGB.aux"'.
-
- (Chapter - ImageRGB.tex
-<66.png, id=33, 1028.34187pt x 578.16pt>
-File: 66.png Graphic file (type png)
-<use 66.png>
-Package pdftex.def Info: 66.png  used on input line 7.
+) (Chapter files/Chapter - ImageRGB.tex [4]
+<Image files/66.png, id=27, 1028.34187pt x 578.16pt>
+File: Image files/66.png Graphic file (type png)
+<use Image files/66.png>
+Package pdftex.def Info: Image files/66.png  used on input line 7.
 (pdftex.def)             Requested size: 276.00105pt x 155.17015pt.
-) [7
-
-
-
- <./66.png>]
-\openout2 = `"Chapter - Theorem.aux"'.
-
- (Chapter - Theorem.tex
+) (Chapter files/Chapter - Multi column.tex [5 <./Image files/66.png>]) (Chapter files/Chapter - Theorem.tex
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 8.
- [8
-
-
-
-]) [9]
-\openout2 = `"Appendix - Newton.aux"'.
-
- (Appendix - Newton.tex) [10
-
-
-
-]
-\openout2 = `"Appendix - Tesla.aux"'.
-
- (Appendix - Tesla.tex) [11
-
-
-
-] (main.aux (Settings - tikz.aux) (Settings - Theorem.aux) (Settings - Equation box.aux) (Settings - Code.aux) (Chapter - Abstract.aux) (Chapter - Image.aux) (Chapter - Essey.aux) (Chapter - Equation.aux) (Chapter - Footnote.aux) (Chapter - ImageRGB.aux) (Chapter - Theorem.aux) (Appendix - Newton.aux) (Appendix - Tesla.aux))
+ [6]) (Chapter files/Chapter - Code.tex (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2024/02/21 1.10 listings language file
+) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2024/02/21 1.10 listings language file
+) (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2024/02/21 1.10 (Carsten Heinz)
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ (C:\Users\Turkka\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2024/02/21 1.10 listings language file
+)) (Appendix files/Appendix - Newton.tex) (Appendix files/Appendix - Tesla.tex [7]) (main.bbl) [8] (main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 27119 strings out of 474456
- 689028 string characters out of 5742262
- 1937190 words of memory out of 5000000
- 48902 multiletter control sequences out of 15000+600000
- 562670 words of font info for 51 fonts, out of 8000000 for 9000
+ 29517 strings out of 474456
+ 723024 string characters out of 5742262
+ 1966190 words of memory out of 5000000
+ 51192 multiletter control sequences out of 15000+600000
+ 566303 words of font info for 111 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 107i,8n,110p,818b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (11 pages, 788443 bytes).
+ 107i,8n,110p,1047b,1301s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Turkka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on main.pdf (8 pages, 821341 bytes).
 PDF statistics:
- 102 PDF objects out of 1000 (max. 8388607)
+ 103 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 27154 words of extra memory for PDF output out of 29859 (max. 10000000)
 
